@@ -15,4 +15,5 @@ git push -u origin main --force
 echo ===================================================
 echo Done! Please check https://github.com/ruchiyadav0070/ruchi890
 echo ===================================================
-pause
+echo Done! Please check file:///C:/Users/ruchi/Desktop/namoza-assignment/index.html
+Done!!!!!
