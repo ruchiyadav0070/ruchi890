@@ -49,11 +49,11 @@ To submit your PageSpeed Insights screenshot scoring 90+ on mobile, you need to 
 2. Scroll down to the **Pages** menu (under "Code and automation").
 3. Under **Build and deployment**, set the Source to **Deploy from a branch**.
 4. Select the `main` (or `master`) branch and click **Save**.
-5. Wait 30 seconds. GitHub will display a notification: *"Your site is live at: `https://yourusername.github.io/namoza-orthonow-assignment/`"*.
+5. Wait 30 seconds. GitHub will display a notification: *"Your site is live at: `https://github.com/ruchiyadav0070/ruchi890`"*.
 
 ### Step 3: Run PageSpeed Insights
 1. Go to [Google PageSpeed Insights](https://pagespeed.web.dev/).
-2. Paste your live GitHub Pages URL (e.g. `https://yourusername.github.io/namoza-orthonow-assignment/`).
+2. Paste your live GitHub Pages URL (e.g. `https://github.com/ruchiyadav0070/ruchi890`).
 3. Click **Analyze**.
 4. Check the **Mobile** score tab (it will score 98-100/100 due to our zero-dependency design!).
 5. Take a screenshot of the mobile score and save it to the repository as `pagespeed_mobile.png`.
