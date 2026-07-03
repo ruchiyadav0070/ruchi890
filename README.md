@@ -33,6 +33,7 @@ The landing page is designed to maximize consultation bookings for working profe
    - Fill out valid details (e.g., Name: `Rahul Sharma`, Phone: `9876543210`, Clinic Location: `Indiranagar`) and submit the form.
    - **Observe console output:** You will see the custom GTM `dataLayer.push` print out in real-time as a formatted JSON object.
    - **Observe UI transition:** The form container will transition smoothly into a trust-building thank-you state confirming their details.
+   - **URL Link:** file:///C:/Users/ruchi/Desktop/namoza-assignment/index.html
 
 ---
 
